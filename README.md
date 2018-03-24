@@ -35,6 +35,20 @@ Write some stuff:
 
 
 
+
+
+
+
+
+
+
+
+Write some stuff: 
+![alt text](https://github.com/numankh/numankh.github.io/blob/master/Ambulance%20Drive%20Time.png "Logo Title Text 1")
+
+
+Write some stuff: 
+![alt text](https://github.com/numankh/numankh.github.io/blob/master/911%20Operator%20Reaction%20Time.png "Logo Title Text 1")
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
