@@ -30,7 +30,7 @@ Syntax highlighted code block
 ```
 
 Write some stuff: 
-![wut](https://github.com/numankh/numankh.github.io/blob/master/Dispatch%20Unit%20Drive%20Time.png "Logo Title Text 1")
+![wut](https://github.com/numankh/numankh.github.io/blob/master/Dispatch%20Unit%20Drive%20Time.png)
 
 
 
