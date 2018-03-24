@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/numankh/DispatchAnalysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files. TESTING------------------------------------
+You can use the [editor on GitHub](https://github.com/numankh/DispatchAnalysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -29,8 +29,6 @@ Syntax highlighted code block
 [src]: https://github.com/numankh/numankh.github.io/blob/master/Dispatch%20Unit%20Drive%20Time.png
 ```
 
-Write some stuff: 
-![wut](https://github.com/numankh/numankh.github.io/blob/master/Dispatch%20Unit%20Drive%20Time.png)
 
 
 
