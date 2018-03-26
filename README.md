@@ -1,9 +1,9 @@
-## Optimizing and Predicting Emergency Calls in San Francisco
+# Optimizing and Predicting Emergency Calls in San Francisco
 
 The purpose of this project was to analyze and display trends in public data from the San Francisco Fire Department that contained dispatch information for emergency calls, with call time, location, dispatch. 
 
 
-### Question 1
+## Question 1
 
 Data Visuals: Display or graph 3 metrics or trends from the data set that are interesting to you.
 
@@ -47,7 +47,7 @@ Another metric that I was interested in looking to was the number of incidents t
 Something that is noticeable is that there is a clear spike in the number of 911 calls from 10 AM to 8 PM.
 
 
-### Question 2
+## Question 2
 
 Given an address and time, what is the most likely dispatch to be required?
 
@@ -70,7 +70,7 @@ The Python script for this question can be found in dispatchPredictor.py.
 
 
 
-### Question 3
+## Question 3
 
 Which areas take the longest time to dispatch to on average? How can this be reduced?
 
@@ -105,7 +105,7 @@ Areas that take the longest time to dispatch on average:
 One way that the average time to dispatch can be reduced is authorities finding better ways to alert current vehicles in the path of dispatched unit to move out of the way such as doing something to the traffic signal. Another way is by simply reducing the time operator takes to dispatch a unit in the first place. This could be accomplished through software that can automatically parse phone call and entered them into the database. 
 
 
-### Bonus Features
+## Bonus Features
 ### Heatmap
 
 Add heat maps that show dispatch frequency, urgency over the city.
