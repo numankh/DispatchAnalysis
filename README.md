@@ -36,6 +36,12 @@ Analyzing the data from this graph, the average time of an ambulance reaching th
 
 For further information on the data visuals, look at operatorTime.py, dispatchTime.py, or ambulanceTime.py.
 
+Another metric that I was interested in looking to was the number of incidents that occur throughout the day. I ended up writing a Java program (Daily911CallFreq.java) that parsed the data into a HashMap. Essentially, it recorded the number of incidents for each our of the day for all 10000 records. This data was then plotted using MatLab (displayDaily911Calls.m):
+
+
+<p align="center">
+  <img src="freq911DailyCallsGraph.png">
+</p>
 
 
 ### Question 2
