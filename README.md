@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+## Optimizing and Predicting Emergency Calls in San Francisco
 
 You can use the [editor on GitHub](https://github.com/numankh/DispatchAnalysis/edit/master/README.md) to maintain and preview the content for your website in Markdown files. 
+The purpose of this project was to analyze and display trends in public data from the San Francisco Fire Department that contained dispatch information for emergency calls, with call time, location, dispatch. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Question 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Data Visuals: Display or graph 3 metrics or trends from the data set that are interesting to you.
 
 ```markdown
 Syntax highlighted code block
@@ -38,6 +38,14 @@ Syntax highlighted code block
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Question 2
+
+Given an address and time, what is the most likely dispatch to be required?
+
+### Question 3
+
+Which areas take the longest time to dispatch to on average? How can this be reduced?
 
 ### Jekyll Themes
 
