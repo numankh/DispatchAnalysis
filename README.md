@@ -10,6 +10,9 @@ Data Visuals: Display or graph 3 metrics or trends from the data set that are in
 When looking at all of the dispatch data provided, I was interested in specifically analyzing the timestamp data. One of the goals for this project was optimization of the dipatch process. Therefore, I was eager to depict three trends that had to do with the amount of time different parts of the dispatch process took. The trends I looked into were the amount of time an operator takes to dispatch an emergency vehicle, the amount of time a unit takes from receiving a dispatch to arriving on scene, and the amount of time an ambulance takes to reach the nearest hospital.
 
 
+<p align="center">
+  <img width="460" height="300" src="911%20Operator%20Reaction%20Time.pn0">
+</p>
 
 ![idk](911%20Operator%20Reaction%20Time.png)
 
