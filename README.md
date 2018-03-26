@@ -14,14 +14,29 @@ When looking at all of the dispatch data provided, I was interested in specifica
   <img src="911%20Operator%20Reaction%20Time.png">
 </p>
 
+OUTLIER < -1.5833333333333337
+5.883333333333334< OUTLIER
+Average: 3.7525450000000076
+Standard Deviation: 20.183931584697163
+
 <p align="center">
   <img src="Dispatch%20Unit%20Drive%20Time.png">
 </p>
+
+OUTLIER < 9.941666666666666
+1.475000000000001< OUTLIER
+Average: 4.627068333333343
+Standard Deviation: 5.521347807929658
 
 <p align="center">
   <img src="Ambulance%20Drive%20Time.png">
 </p>
 
+
+OUTLIER <-17.65833333333334
+37.60833333333334 < OUTLIER
+Average: 4.443343333333352
+Standard Deviation: 7.809159925163859
 
 ```markdown
 Syntax highlighted code block
