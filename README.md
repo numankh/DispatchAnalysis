@@ -43,7 +43,19 @@ For further information on the data visuals, look at operatorTime.py, dispatchTi
 Given an address and time, what is the most likely dispatch to be required?
 
 
+Addressing this problem required properly understanding how to group data, store data, access data, and finally displaying it to the user. Essentially the user would enter an address such as "700 44TH AVE SF" and then enter a military-time such as "12". The script would the map of occurances of each type of call_type in a unique hour of the day which is in a unique zip code. The script then determines the most likely dispatch required and displays it to the user. Here is a sample run:
 
+```markdown
+Sample run of dispatchPredictor.py
+
+Given an address and time, what is the most likely dispatch to be required?
+
+Please enter an address (EX: 700 44TH AVE SF): 1700 CALIFORNIA ST SF
+
+Please enter a time of day (0-23): 23
+
+Most likely dispatch to be required: Medical Incident
+```
 
 ### Question 3
 
@@ -51,8 +63,6 @@ Which areas take the longest time to dispatch to on average? How can this be red
 
 
 ```markdown
-Syntax highlighted code block
-
 # Header 1
 ## Header 2
 ### Header 3
