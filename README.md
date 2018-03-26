@@ -10,33 +10,30 @@ Data Visuals: Display or graph 3 metrics or trends from the data set that are in
 When looking at all of the dispatch data provided, I was interested in specifically analyzing the timestamp data. One of the goals for this project was optimization of the dipatch process. Therefore, I was eager to depict three trends that had to do with the amount of time different parts of the dispatch process took. The trends I looked into were the amount of time an operator takes to dispatch an emergency vehicle, the amount of time a unit takes from receiving a dispatch to arriving on scene, and the amount of time an ambulance takes to reach the nearest hospital.
 
 
+
 <p align="center">
   <img src="911%20Operator%20Reaction%20Time.png">
 </p>
 
-OUTLIER < -1.5833333333333337
-5.883333333333334< OUTLIER
-Average: 3.7525450000000076
-Standard Deviation: 20.183931584697163
+
+Analyzing the data from this graph, the average of the reaction times of operators in San Francisco's Fire Department was 3.75 minutes. The standard deviation of this data was 20.18, in other words, the reaction times of 911 operators are extremely spread over a wide range. 
+
 
 <p align="center">
   <img src="Dispatch%20Unit%20Drive%20Time.png">
 </p>
 
-OUTLIER < 9.941666666666666
-1.475000000000001< OUTLIER
-Average: 4.627068333333343
-Standard Deviation: 5.521347807929658
+
+Analyzing the data from this graph, the average time of the dispatched unit reaching the location of the incident was 4.63 minutes. The standard deviation of this data was 5.52, therefore, the amount of time vehicles to reach the location of the incident is much closer to the mean than the previous trend.
+
 
 <p align="center">
   <img src="Ambulance%20Drive%20Time.png">
 </p>
 
 
-OUTLIER <-17.65833333333334
-37.60833333333334 < OUTLIER
-Average: 4.443343333333352
-Standard Deviation: 7.809159925163859
+Analyzing the data from this graph, the average time of an ambulance reaching the nearest hospital was 4.44 minutes. The standard deviation of this data was 7.81, therefore, the amount of time ambulances took to reach the hospital was somewhat varied and away from the mean.
+
 
 ```markdown
 Syntax highlighted code block
@@ -71,6 +68,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 ### Question 2
 
 Given an address and time, what is the most likely dispatch to be required?
+
+
+
 
 ### Question 3
 
