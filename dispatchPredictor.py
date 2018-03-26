@@ -18,7 +18,7 @@ d0 = df['location'] #stores the latitude and longitude of each incident
 
 print('Given an address and time, what is the most likely dispatch to be required?')
 address = input("Please enter an address (EX: 700 44TH AVE SF): ")
-timeOfDay = input("Please enter a time of day (0-23): ")
+timeOfDay = input("Please enter a time of day (military time): ")
 print('')
 
 
