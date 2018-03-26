@@ -111,6 +111,9 @@ One way that the average time to dispatch can be reduced is authorities finding 
 Add heat maps that show dispatch frequency, urgency over the city.
 
 
+<p align="center">
+  <img src="DispatchFreqHeatMap.PNG">
+</p>
 
 
 
