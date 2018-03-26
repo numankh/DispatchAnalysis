@@ -34,6 +34,21 @@ Analyzing the data from this graph, the average time of the dispatched unit reac
 
 Analyzing the data from this graph, the average time of an ambulance reaching the nearest hospital was 4.44 minutes. The standard deviation of this data was 7.81, therefore, the amount of time ambulances took to reach the hospital was somewhat varied and away from the mean.
 
+For further information on the data visuals, look at operatorTime.py, dispatchTime.py, or ambulanceTime.py.
+
+
+
+### Question 2
+
+Given an address and time, what is the most likely dispatch to be required?
+
+
+
+
+### Question 3
+
+Which areas take the longest time to dispatch to on average? How can this be reduced?
+
 
 ```markdown
 Syntax highlighted code block
@@ -58,23 +73,7 @@ Syntax highlighted code block
 
 
 
-
-
-
-
-
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Question 2
-
-Given an address and time, what is the most likely dispatch to be required?
-
-
-
-
-### Question 3
-
-Which areas take the longest time to dispatch to on average? How can this be reduced?
 
 ### Jekyll Themes
 
