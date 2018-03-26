@@ -61,7 +61,7 @@ Given an address and time, what is the most likely dispatch to be required?
 
 Please enter an address (EX: 700 44TH AVE SF): 1700 CALIFORNIA ST SF
 
-Please enter a time of day (0-23): 23
+Please enter a time of day (military time): 23:47
 
 Most likely dispatch to be required: Medical Incident
 ```
