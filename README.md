@@ -126,5 +126,5 @@ This heat map specifically show the dispatch frequency in the San Francisco from
   <img src="IncidentTypeHeatMap.png">
 </p>
 
-This heat map takes the previous heat map of dispatch frequency and breaks it down to different categories of emergency call types.
+This heat map takes the previous heat map of dispatch frequency and breaks it down into different categories of emergency call types.
 
