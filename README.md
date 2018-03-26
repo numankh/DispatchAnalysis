@@ -11,14 +11,13 @@ When looking at all of the dispatch data provided, I was interested in specifica
 
 
 
-![idk](911%Operator%Reaction%Time.png)
+![idk](911%20Operator%20Reaction%20Time.png)
 
 
 ![idk](Dispatch%20Unit%20Drive%20Time.png)
 
 
-![idk](Ambulance%Drive%Time.png)
-
+![idk](Ambulance%20Drive%20Time.png)
 
 ```markdown
 Syntax highlighted code block
