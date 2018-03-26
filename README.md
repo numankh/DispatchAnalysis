@@ -111,10 +111,12 @@ One way that the average time to dispatch can be reduced is authorities finding 
 Add heat maps that show dispatch frequency, urgency over the city.
 
 
+
+
 <p align="center">
   <img src="DispatchFreqHeatMap.PNG">
 </p>
-
+This heat map specifically show the dispatch frequency in the San Francisco from 1/13 to 1/24. One conclusion that can be made from it is as that northeast corner of San Francisco, such as the Mission District, Chinatown, Japantown, and the China Basin, seems to be having the most emergency calls. 
 
 
 ```markdown
