@@ -121,3 +121,10 @@ Add heat maps that show dispatch frequency, urgency over the city.
 
 This heat map specifically show the dispatch frequency in the San Francisco from 1/13 to 1/24. One conclusion that can be made from it is as that northeast corner of San Francisco, such as the Mission District, Chinatown, Japantown, and the China Basin, seems to be having the most emergency calls. 
 
+
+<p align="center">
+  <img src="IncidentTypeHeatMap.png">
+</p>
+
+This heat map takes the previous heat map of dispatch frequency and breaks it down to different categories of emergency call types.
+
