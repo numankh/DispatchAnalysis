@@ -1,6 +1,6 @@
 # Optimizing and Predicting Emergency Calls in San Francisco
 
-The purpose of this project was to analyze and display trends in public data from the San Francisco Fire Department that contained dispatch information for emergency calls, with call time, location, dispatch. 
+My name is Numan Khan and the purpose of this project was to analyze and display trends in public data from the San Francisco Fire Department that contained dispatch information for emergency calls, with call time, location, dispatch. 
 
 
 ## Question 1
