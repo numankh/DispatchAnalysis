@@ -14,13 +14,14 @@ When looking at all of the dispatch data provided, I was interested in specifica
   <img src="911%20Operator%20Reaction%20Time.png">
 </p>
 
-![idk](911%20Operator%20Reaction%20Time.png)
+<p align="center">
+  <img src="Dispatch%20Unit%20Drive%20Time.png">
+</p>
 
+<p align="center">
+  <img src="Ambulance%20Drive%20Time.png">
+</p>
 
-![idk](Dispatch%20Unit%20Drive%20Time.png)
-
-
-![idk](Ambulance%20Drive%20Time.png)
 
 ```markdown
 Syntax highlighted code block
