@@ -129,7 +129,8 @@ This heat map specifically show the dispatch frequency in the San Francisco from
 This heat map takes the previous heat map of dispatch frequency and breaks it down into different categories of emergency call types.
 
 <p align="center">
-  <img src="SafeNeighborhoodHeatMap.PNG">
+  <img src="CrimeFreqHeatMap.PNG">
 </p>
 
-This heat map displays the safe neighborhoods in the San Francisco area. This map was created by acknowledging that the type of dispatch call closest to a crime would be "Alarms". The number of alarm related dispatch calls was summed up for each unique zipcode. However, this data would show the crime heavy areas--not the safe neighborhoods. Therefore, subtracting all of the occurances of alarm dispatch calls from 200 would show us the opposite data--safe neighborhoods. The number 200 was chosen because the greatest amount alarm related dispatch calls was for zipcode 94102, 148 calls. Therefore, 94102 would have a lower value comparative to other zipcodes.
+
+This heat map displays the frequency of crimes in the San Francisco area. This map was created by acknowledging that the type of dispatch call closest to a crime would be "Alarms". The number of alarm related dispatch calls was summed up for each unique zipcode. The legend in the top left corner displays the frequency of crimes, red being crime heavy zipcodes and blue being safe neighborhoods. Therefore, the most calm and safe neighborhoods in the San Francisco area would have a blue color.  
